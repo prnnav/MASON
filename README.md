@@ -2,7 +2,6 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-This is the link to the Youtube video of same app- https://youtu.be/xIqrNak_bCw?si=nvShILkBApLj3fW_
 
 ## Get started
 
